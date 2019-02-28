@@ -1,0 +1,1 @@
+﻿New-PSDrive -Name "W" -Persist -PSProvider FileSystem -Root "\\nas-01.luganoturismo.local\Direzione"
