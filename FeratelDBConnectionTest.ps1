@@ -1,7 +1,7 @@
 ﻿$strIpAddress = "10.194.8.222"
 $intOnline = 0
 $intDown = 0
-clear
+Clear-Host
 
 do {
     
@@ -19,6 +19,6 @@ do {
         }
 
     Start-Sleep -Seconds 2
-    clear
+    Clear-Host
 
 }while ($true)
